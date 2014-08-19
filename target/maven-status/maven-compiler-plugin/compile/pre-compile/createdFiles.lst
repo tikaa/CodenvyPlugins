@@ -1,0 +1,15 @@
+com/codenvy/ide/MyExtension.class
+com/codenvy/ide/server/Wso2WAProjectTypeDescriptionExension.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter$3.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter$3$1.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter$2.class
+com/codenvy/ide/client/wizard/project/WSO2PageView.class
+com/codenvy/ide/server/WSO2WAProjectTypeExtension.class
+com/codenvy/ide/client/Wso2WAExtension.class
+com/codenvy/ide/client/wizard/project/WSO2PageViewImpl$WSO2PageViewImplUiBinder.class
+com/codenvy/ide/client/wizard/project/WSO2PageViewImpl.class
+com/codenvy/ide/server/Wso2WAModule.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter$1.class
+com/codenvy/ide/client/wizard/project/WSO2PagePresenter$2$1.class
+com/codenvy/ide/client/wizard/project/WSO2PageView$ActionDelegate.class
